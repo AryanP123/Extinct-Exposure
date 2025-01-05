@@ -1,4 +1,7 @@
 # Extinct-Exposure
+
+https://play.unity.com/en/games/7fc0098d-124e-4af4-98f7-ef6b7d31c341/extinct-exposure
+
  Modern time photographer gets sent back to the Jurassic period! Take pictures of all the dinosaurs to return. Game was created in Unity.
 
 # Game description. 
